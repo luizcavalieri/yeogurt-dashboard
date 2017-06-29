@@ -5,6 +5,7 @@
 
 import $ from 'jquery';
 import Link from '../_modules/link/link';
+import 'slick-carousel';
 
 $(() => {
   new Link(); // Activate Link modules logic

@@ -1,7 +1,7 @@
 {
   "generator-yeogurt": {
     "config": {
-      "projectName": "DashboardExample",
+      "projectName": "YeogurtDashboard",
       "htmlOption": "jade",
       "jsPreprocessor": "es6",
       "cssOption": "sass",

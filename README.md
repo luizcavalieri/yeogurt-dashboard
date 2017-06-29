@@ -1,4 +1,4 @@
-# Dashboardexample readme
+# Yeogurtdashboard readme
 
 Generated on 2017-06-29 using
 [generator-yeogurt@2.0.0](https://github.com/larsonjj/generator-yeogurt)

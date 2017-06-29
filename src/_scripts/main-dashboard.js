@@ -1,5 +1,8 @@
 'use strict';
-var $ = require('jquery');
+
+import $ from 'jquery';
+import 'slick-carousel';
+
 
 $(function() {
 
